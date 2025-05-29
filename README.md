@@ -14,7 +14,9 @@ ProductWebApp/
 │ ├── productdisplay.jsp
 │ ├── reports.jsp
 │ ├── report_form.jsp
-│ └── report_result.jsp
+│ └── report_result.jsp\
+
+![image alt]()
 
 
 
