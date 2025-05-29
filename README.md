@@ -19,17 +19,17 @@ ProductWebApp/
 
 HOME PAGE:
 ![image alt](Output/index.png.png)
-![image alt](Output/index.png.png)
+ADD PAGE:
 
 ![image alt](Output/Productadd.png.png)
 
-
+DIPLAY PAGE:
 ![image alt](Output/display.png.png)  
-
+ DELETE PAGE:
 ![image alt](Output/delete.png.png)
-
+REPORT PAGE:
 ![image alt](Output/report.jpg)
-
+REPORT FORM PAGE:
 ![image alt](Output/report.png.png)
-
+REPORT RESULT PAGE:
 ![image alt](Output/pricefilter.jpg)
