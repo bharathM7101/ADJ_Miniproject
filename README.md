@@ -21,5 +21,5 @@ ProductWebApp/
 ![image alt](Output/delete.png.png)
 ![image alt](Output/report.png.png)
 ![image alt](Output/report.jpg)
-
-
+![image alt](Output/pricefilter.jpg)
+![image alt](Output/pricefilter.jpg)
