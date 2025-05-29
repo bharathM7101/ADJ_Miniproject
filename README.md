@@ -4,7 +4,7 @@ products, and viewing product lists. Reports include products with price above a
 products in a specific category, and top-selling products.
 
 FILE_FORMAT
-...
+```
 ProductWebApp/
 ├── WebContent/
 │ ├── index.jsp
@@ -15,7 +15,9 @@ ProductWebApp/
 │ ├── reports.jsp
 │ ├── report_form.jsp
 │ └── report_result.jsp\
-...
+```
+
+
 ![image alt](Output/Productadd.png.png)
 ![image alt](Output/index.png.png)
 ![image alt](Output/delete.png.png)
