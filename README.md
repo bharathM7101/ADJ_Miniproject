@@ -33,3 +33,15 @@ REPORT FORM PAGE:
 ![image alt](Output/report.png.png)
 REPORT RESULT PAGE:
 ![image alt](Output/pricefilter.jpg)
+![image alt](Output/Mysql.png)
+
+ DATABASE
+```
+CREATE TABLE Products (
+ProductID INT PRIMARY KEY,
+ProductName VARCHAR(100),
+Category VARCHAR(50),
+Price DECIMAL(10,2),
+Quantity INT
+);
+```
