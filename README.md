@@ -16,7 +16,7 @@ ProductWebApp/
 │ ├── report_form.jsp
 │ └── report_result.jsp\
 
-![image alt]()
+![image alt](Output/Productadd.png.png)
 
 
 
