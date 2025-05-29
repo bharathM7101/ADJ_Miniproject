@@ -17,13 +17,19 @@ ProductWebApp/
 │ └── report_result.jsp\
 ```
 
+HOME PAGE:
 ![image alt](Output/index.png.png)
-![image alt](Output/Productadd.png.png)
 ![image alt](Output/index.png.png)
 
-![image alt](Output/display.png.png)   
+![image alt](Output/Productadd.png.png)
+
+
+![image alt](Output/display.png.png)  
+
 ![image alt](Output/delete.png.png)
+
 ![image alt](Output/report.jpg)
+
 ![image alt](Output/report.png.png)
 
 ![image alt](Output/pricefilter.jpg)
